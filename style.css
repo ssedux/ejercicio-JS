@@ -1,0 +1,25 @@
+.titulo1{
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+}
+
+.imagen1{
+    height: 350px;
+    width: 350px;
+}
+
+.textos1{
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+}
+
+.textos2{
+    margin: 10px;
+    padding: 5px;
+}
+
+.billetes{
+    margin: 10px;
+}
